@@ -1,3 +1,3 @@
-# EvolutionOfIvermectinResistance
+# Evolution Of Ivermectin Resistance
 
-This repository contains the code that was used to run simulations of ivermectin resistance evolution in c elegans, and code to create the figures. 
+This repository contains the code used to run simulations of ivermectin resistance evolution in C. elegans and to create the figures. 
